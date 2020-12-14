@@ -10,3 +10,4 @@
 |   5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | Easy       | [JS](./5-loops/index.js)                           |
 |   6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | Easy       | [JS](./6-lets-review/index.js)                     |
 |   7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                          | Easy       | [JS](./7-arrays/index.js)                          |
+|   8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | Easy       | [JS](./8-dictionaries-and-maps/index.js)           |
