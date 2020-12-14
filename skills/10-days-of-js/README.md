@@ -17,3 +17,4 @@
 |   4 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)                   | Easy       | [Solution](./4-count-objects/index.js)                  |
 |   4 | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)                                 | Easy       | [Solution](./4-classes/index.js)                        |
 |   5 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)                       | Easy       | [Solution](./5-inheritance/index.js)                    |
+|   5 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)           | Easy       | [Solution](./5-template-literals/index.js)              |
