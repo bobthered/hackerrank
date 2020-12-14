@@ -6,4 +6,4 @@
 
 | Skill                                    | Languages              | Solved | Total |
 | :--------------------------------------- | :--------------------- | -----: | ----: |
-| [10 Days of JS](./skills/10-days-of-js/) | HTML, CSS, JS, Node.js |      8 |     8 |
+| [10 Days of JS](./skills/10-days-of-js/) | HTML, CSS, JS, Node.js |      9 |     9 |
