@@ -12,3 +12,4 @@
 |   2 | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)                                   | Easy       | [Solution](./2-loops/index.js)                          |
 |   3 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)                                 | Easy       | [Solution](./3-arrays/index.js)                         |
 |   3 | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | Easy       | [Solution](./3-try-catch-and-finally/index.js)          |
+|   3 | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)                                   | Easy       | [Solution](./3-throw/index.js)                          |
