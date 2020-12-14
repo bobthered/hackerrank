@@ -11,4 +11,5 @@
 |   6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | Easy       | [JS](./6-lets-review/index.js)                     |
 |   7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                          | Easy       | [JS](./7-arrays/index.js)                          |
 |   8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | Easy       | [JS](./8-dictionaries-and-maps/index.js)           |
-|   9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem?h_r=next-challenge&h_v=zen)       | Easy       | [JS](./9-recursion-3/index.js)                     |
+|   9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                  | Easy       | [JS](./9-recursion-3/index.js)                     |
+|  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                          | Easy       | [JS](./10-binary-numbers/index.js)                 |
