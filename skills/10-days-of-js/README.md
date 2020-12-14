@@ -23,3 +23,4 @@
 |   6 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)                         | Easy       | [Solution](./6-javascript-dates/index.js)               |
 |   7 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)                | Easy       | [Solution](./7-regular-expressions-i/index.js)          |
 |   7 | [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)               | Easy       | [Solution](./7-regular-expressions-ii/index.js)         |
+|   7 | [Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)              | Easy       | [Solution](./7-regular-expressions-iii/index.js)        |
