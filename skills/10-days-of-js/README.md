@@ -8,3 +8,4 @@
 |   1 | [Functions](https://www.hackerrank.com/challenges/js10-function/problem)                        | Easy       | [Solution](./1-functions/index.js)                      |
 |   1 | [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)               | Easy       | [Solution](./1-let-and-const/index.js)                  |
 |   2 | [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)   | Easy       | [Solution](./2-conditional-statements-if-else/index.js) |
+|   2 | [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)     | Easy       | [Solution](./2-conditional-statements-switch/index.js)  |
