@@ -16,3 +16,4 @@
 |   4 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)             | Easy       | [Solution](./4-create-a-rectangle-object/index.js)      |
 |   4 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)                   | Easy       | [Solution](./4-count-objects/index.js)                  |
 |   4 | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)                                 | Easy       | [Solution](./4-classes/index.js)                        |
+|   5 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)                       | Easy       | [Solution](./5-inheritance/index.js)                    |
