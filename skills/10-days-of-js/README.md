@@ -19,3 +19,4 @@
 |   5 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)                       | Easy       | [Solution](./5-inheritance/index.js)                    |
 |   5 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)           | Easy       | [Solution](./5-template-literals/index.js)              |
 |   5 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)                        | Easy       | [Solution](./5-arrow-functions/index.js)                |
+|   6 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)                     | Easy       | [Solution](./6-bitwise-operators/index.js)              |
