@@ -2,4 +2,4 @@
 
 | Category                                    | Solved | Total |
 | :------------------------------------------ | -----: | ----: |
-| [Warm-up Challenges](./warm-up-challenges/) |      3 |     4 |
+| [Warm-up Challenges](./warm-up-challenges/) |      4 |     4 |
