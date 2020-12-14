@@ -13,3 +13,4 @@
 |   3 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)                                 | Easy       | [Solution](./3-arrays/index.js)                         |
 |   3 | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | Easy       | [Solution](./3-try-catch-and-finally/index.js)          |
 |   3 | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)                                   | Easy       | [Solution](./3-throw/index.js)                          |
+|   4 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)             | Easy       | [Solution](./4-create-a-rectangle-object/index.js)      |
