@@ -21,3 +21,4 @@
 |   5 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)                        | Easy       | [Solution](./5-arrow-functions/index.js)                |
 |   6 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)                     | Easy       | [Solution](./6-bitwise-operators/index.js)              |
 |   6 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)                         | Easy       | [Solution](./6-javascript-dates/index.js)               |
+|   7 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)                | Easy       | [Solution](./7-regular-expressions-i/index.js)          |
