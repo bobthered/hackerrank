@@ -22,3 +22,4 @@
 |   6 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)                     | Easy       | [Solution](./6-bitwise-operators/index.js)              |
 |   6 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)                         | Easy       | [Solution](./6-javascript-dates/index.js)               |
 |   7 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)                | Easy       | [Solution](./7-regular-expressions-i/index.js)          |
+|   7 | [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)               | Easy       | [Solution](./7-regular-expressions-ii/index.js)         |
