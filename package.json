@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://www.hackerrank.com/\">\r     <img src=\"./images/HackerRank_logo.png\" width=\"200\">\r   </a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobthered/hackerrank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobthered/hackerrank/issues"
+  },
+  "homepage": "https://github.com/bobthered/hackerrank#readme",
+  "jest": {
+    "verbose": true
+  }
+}
