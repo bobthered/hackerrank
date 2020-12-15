@@ -13,3 +13,4 @@
 |   8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | Easy       | [JS](./8-dictionaries-and-maps/index.js)           |
 |   9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                  | Easy       | [JS](./9-recursion-3/index.js)                     |
 |  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                          | Easy       | [JS](./10-binary-numbers/index.js)                 |
+|  11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                    | Easy       | [JS](./11-2d-arrays/index.js)                      |
