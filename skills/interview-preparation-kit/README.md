@@ -2,5 +2,5 @@
 
 | Category                                    | Solved | Total |
 | :------------------------------------------ | -----: | ----: |
-| [Arrays](./arrays/)                         |      2 |     5 |
+| [Arrays](./arrays/)                         |      3 |     5 |
 | [Warm-up Challenges](./warm-up-challenges/) |      4 |     4 |
