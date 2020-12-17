@@ -15,3 +15,4 @@
 |  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                          | Easy       | [JS](./10-binary-numbers/index.js)                 |
 |  11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                    | Easy       | [JS](./11-2d-arrays/index.js)                      |
 |  12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                | Easy       | [JS](./12-inheritances/index.js)                   |
+|  13 | [Inheritance](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                           | Easy       | [JS](./13-abstract-classes/index.js)               |
