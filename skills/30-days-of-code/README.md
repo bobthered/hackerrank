@@ -18,3 +18,4 @@
 |  13 | [Inheritance](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                           | Easy       | [JS](./13-abstract-classes/index.js)               |
 |  14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                            | Easy       |                                                    |
 |  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                | Easy       | [JS](./15-linked-list/index.js)                    |
+|  16 | [Linked List](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)               | Easy       | [JS](./16-exceptions-string-to-integer/index.js)   |
